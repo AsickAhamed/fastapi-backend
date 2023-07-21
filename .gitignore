@@ -1,3 +1,4 @@
 /src/logs
-.env.secret
+.idea
 .env.shared
+.env.secret
